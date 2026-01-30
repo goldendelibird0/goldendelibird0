@@ -1,16 +1,16 @@
 <!-- README.md -->
 
 <h1 align="left" style="line-height:1.05;">
-  Hey, I'm YOUR_NAME —
+  Hey, I'm Nathan —
   <br>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=48&duration=3000&pause=1500&color=FACC15&vCenter=true&width=900&lines=Data+Analyst;Researcher;Builder;Entrepreneur"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=48&duration=3000&pause=1500&color=FACC15&vCenter=true&width=900&lines=an Aspiring Data+Analyst;a Researcher;a Builder; an Entrepreneur"
     alt="Typing SVG"
   />
 </h1>
 
 <p align="left" style="margin-top:8px;">
-Building data-driven products • Publishing reproducible research • Launching small businesses • Shipping reliable analytics
+Turning data into useful tools, research, and practical business insights.
 </p>
 
 <p>
@@ -42,9 +42,9 @@ Building data-driven products • Publishing reproducible research • Launching
 
 ## What I work on
 - **Data:** ETL, SQL modeling, feature engineering, KPI tracking  
-- **Tech:** Python (pandas, scikit-learn), Jupyter, Git, Docker  
+- **Tech:** Python (pandas, numpy, scikit-learn), Jupyter, Tableau
 - **Product:** Analytics tools, reports, decision dashboards  
 
 ---
 
-_Last updated: YYYY-MM-DD_
+_Last updated: 2026-Jan30
