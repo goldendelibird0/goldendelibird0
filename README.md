@@ -4,7 +4,7 @@
   Hey, I'm Nathan —
   <br>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=48&duration=3000&pause=1500&color=FACC15&vCenter=true&width=900&lines=an Aspiring Data+Analyst;a Researcher;a Builder; an Entrepreneur"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=48&duration=3000&pause=1500&color=FACC15&vCenter=true&width=900&lines=an+Aspiring+Data+Analyst;a+Researcher;a+Builder;an+Entrepreneur"
     alt="Typing SVG"
   />
 </h1>
