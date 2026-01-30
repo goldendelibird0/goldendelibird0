@@ -35,7 +35,6 @@ Turning data into useful tools, research, and practical business insights.
 - Interested in scaling ideas into real products and businesses  
 
 ## What I work on
-- **Data:** ETL, SQL modeling, feature engineering, KPI tracking  
 - **Tech:** Python (pandas, numpy, scikit-learn), Jupyter, Tableau
 - **Product:** Analytics tools, reports, decision dashboards  
 
